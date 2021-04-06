@@ -14,7 +14,7 @@ django-contrib-comments==1.8.0
 django-crispy-forms==1.6.1
 django-debug-toolbar==1.7
 django-material==0.13.1
-django-registration==2.2
+django-registration==3.1.2
 django-registration-redux==1.5
 django-widget-tweaks==1.4.1
 docopt==0.6.2
