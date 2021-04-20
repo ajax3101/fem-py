@@ -36,7 +36,7 @@ pipreqs==0.4.9
 pluggy==0.4.0
 prompt-toolkit==1.0.14
 psycopg2==2.7.1
-py==1.4.33
+py==1.10.0
 Pygments==2.2.0
 PyMySQL==0.7.11
 pyparsing==2.2.0
