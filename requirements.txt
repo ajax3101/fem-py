@@ -27,7 +27,7 @@ Mako==1.0.7
 markdown2==2.3.3
 MarkupSafe==1.0
 matplotlib==2.0.2
-numpy==1.13.1+mkl
+numpy==1.22.0rc1
 olefile==0.44
 packaging==16.8
 pickleshare==0.7.4
